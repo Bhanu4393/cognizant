@@ -1,0 +1,25 @@
+1. Create a project folder.
+
+2. Open Terminal in VS Code.
+
+3. Initialize npm:
+
+npm init -y
+
+4. Install Bootstrap:
+
+npm install bootstrap
+
+5. Install Sass:
+
+npm install sass
+
+Project Structure
+
+project-folder
+│
+├── node_modules
+├── scss
+│   └── custom.scss
+├── package.json
+└── index.html

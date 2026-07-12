@@ -1,0 +1,25 @@
+Create a file:
+
+scss/_variables.scss
+
+Add:
+
+$primary: #198754;
+$border-radius: 1rem;
+
+Create:
+
+scss/custom.scss
+
+Add:
+
+@import "variables";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+Compile Bootstrap:
+
+npx sass scss/custom.scss custom-bootstrap.css
+
+Use the compiled file in HTML:
+
+<link rel="stylesheet" href="custom-bootstrap.css">

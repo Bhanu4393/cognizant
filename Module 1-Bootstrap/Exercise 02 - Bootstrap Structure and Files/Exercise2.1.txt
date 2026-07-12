@@ -1,0 +1,32 @@
+Bootstrap Folder Structure
+
+bootstrap
+│
+├── css
+│   ├── bootstrap.css
+│   ├── bootstrap.min.css
+│
+├── js
+│   ├── bootstrap.js
+│   ├── bootstrap.bundle.min.js
+│
+└── icons
+    ├── bootstrap-icons.css
+    └── icon files
+
+Purpose of Folders
+
+1. CSS Folder
+   - Contains Bootstrap stylesheet files.
+   - Used for page styling and layout.
+   - bootstrap.min.css is the compressed version used in projects.
+
+2. JS Folder
+   - Contains Bootstrap JavaScript files.
+   - Used for components like modals, accordions, dropdowns, and tooltips.
+   - bootstrap.bundle.min.js includes Popper.js.
+
+3. Icons Folder
+   - Contains Bootstrap Icons.
+   - Used to display icons in web pages.
+   - Includes icon styles and font files.
