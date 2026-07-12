@@ -2,7 +2,7 @@
 
 ## Author
 
-Mithun B
+BHANU N
 
 ## Overview
 
@@ -90,7 +90,5 @@ Digital-Nurture-5.0-java-fse-Mithun B
 ## Date
 
 2026
-
----
 
 Digital Nurture 5.0 Java Full Stack Engineer Training Repository
