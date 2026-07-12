@@ -1,0 +1,19 @@
+1. Open the page in Chrome.
+
+2. Press F12 to open DevTools.
+
+3. Open the Console tab.
+
+4. Add console.log() statements to track form submission.
+
+5. Open the Sources tab.
+
+6. Add breakpoints in JavaScript.
+
+7. Submit the form and inspect variable values.
+
+8. Open the Network tab.
+
+9. Check the fetch request status.
+
+10. Verify the request payload and response data.
